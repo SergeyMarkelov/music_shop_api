@@ -1,4 +1,4 @@
-# second_api
+# music_shop_api
 
 My second api has written by using GoLang for my own practice
 
