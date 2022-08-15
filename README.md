@@ -1,5 +1,5 @@
 # second_api
-My second api has written by using GoLang for my own practice
+My second api has written by using GoLang for my own practice#
 Api was created for music shop
 I used Go 1.19, GORM library and Gin framework
 API can make requests like Create, Read, Delete
